@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Application">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAAAAAAAAAAAAAACEAAoAAAAAAAAIAA=</HashCode>
+      <FileName>Application.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAAAAEAAAQIAAIQIAAAAAAAAABAAAgAUAIAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DynamicObject">
+    <Position X="26" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAACIAAAACAFQKgAABwgUAMAAAACABAAYAQEwEABAE=</HashCode>
+      <FileName>DynamicObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eagle">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACAAIEAACAAAAAAEACAAAAAAAAAAAA=</HashCode>
+      <FileName>Eagle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAgAAAAAAAACAAACAACAAAAAAEACAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EShot">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAAEAACAAACAACAAAAAAEACAAAAAAAAAAAA=</HashCode>
+      <FileName>EShot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAACAEACAQIIAASIAMgAAEACAAAAAAEIAAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABAAAACAAAAAACAAAAAAEACAAAAIAAAAAAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEgAAABAAAAAAAAACAEABYQIgBBAACIAAAACAAI=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACAAACAACAAAAAAEACAAAAAAQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PShot">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAAAAAAACAAACAADAAAAAAEACAAAAAAAAAAAA=</HashCode>
+      <FileName>PShot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleGame">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAsAAAEhAABQABAAAQEEAAAACAgEAIDAAAAqAkgAA=</HashCode>
+      <FileName>SingleGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticObject">
+    <Position X="27.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQAAAAoAAIAgDAgAAAAABAAAAAAABAAAQAAKA=</HashCode>
+      <FileName>StaticObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text2">
+    <Position X="22.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAgBAAAAAAAAAAAAAAAAAAAIAAEIgAAAAAA=</HashCode>
+      <FileName>Text2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACAAAAAACAACAAAEASAAAAAAAAAAAA=</HashCode>
+      <FileName>Wall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

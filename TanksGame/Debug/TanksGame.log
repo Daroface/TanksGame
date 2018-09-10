@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\source.cpp(22): warning C4101: 'e': unreferenced local variable
+  SingleGame.cpp
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(50): warning C4101: 'type': unreferenced local variable
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(58): warning C4101: 'e': unreferenced local variable
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(101): warning C4101: 'e': unreferenced local variable
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(136): warning C4101: 'e': unreferenced local variable
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(168): warning C4101: 'e': unreferenced local variable
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(505): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(506): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(511): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(512): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(517): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(518): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(523): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(524): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(536): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(730): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(731): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(736): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(737): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(742): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(743): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(748): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\daroface\documents\gitvisualstudio\projekt\tanksgame\tanksgame\singlegame.cpp(749): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  TanksGame.vcxproj -> C:\Users\Daroface\Documents\GitVisualStudio\Projekt\TanksGame\Debug\TanksGame.exe
+  TanksGame.vcxproj -> C:\Users\Daroface\Documents\GitVisualStudio\Projekt\TanksGame\Debug\TanksGame.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  Text2.cpp
+  StaticObject.cpp
+  Source.cpp
+  SingleGame.cpp
+  Menu.cpp
+  Map.cpp
+  GameObject.cpp
+  DynamicObject.cpp
+  Button.cpp
+  Application.cpp
+  Generating Code...
+x64\Debug\Application.obj : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'

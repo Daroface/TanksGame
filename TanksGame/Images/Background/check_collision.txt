@@ -1,0 +1,89 @@
+/*
+	float x = gracz.getcor().x + v.x;
+	float y = gracz.getcor().y + v.y;
+	float h = gracz.gethigh();
+	float w = gracz.getwidth();
+	
+	//sprawdzanie orzelka
+	//czy nie koliduje z prawej strony obiektu
+	if ((x <= (s.getEagle().getcor().x + s.getEagle().getwidth())) && (x >= s.getEagle().getcor().x) && ((y + h) >= s.getEagle().getcor().y) && (y <= (s.getEagle().getcor().y + s.getEagle().gethigh())))
+	{
+		return false;
+	}
+
+	//czy nie koliduje z lewej strony obiektu
+	if (((x+w) >= s.getEagle().getcor().x) && ((x + w) <= (s.getEagle().getcor().x + s.getEagle().getwidth())) && ((y + h) >= s.getEagle().getcor().y) && (y <= (s.getEagle().getcor().y + s.getEagle().gethigh())))
+	{
+		return false;
+	}
+
+	//czy nie koliduje z góry obiektu
+	if (((y + h) >= s.getEagle().getcor().y) && ((y + h) <= (s.getEagle().getcor().y + s.getEagle().gethigh())) && ((x + w) >= s.getEagle().getcor().x) && (x <= (s.getEagle().getcor().x + s.getEagle().getwidth())))
+	{
+		return false;
+	}
+
+	//czy nie koliduje z do³u obiektu
+	if ((y <= (s.getEagle().getcor().y + s.getEagle().gethigh())) && ((y + h) >= s.getEagle().getcor().y) && ((x + w) >= s.getEagle().getcor().x) && (x <= (s.getEagle().getcor().x + s.getEagle().getwidth())))
+	{
+		return false;
+	}
+	
+	//sprawdzanie œcian
+	
+	for (int i = 0; i < s.amofob() - 2;i++)
+	{
+		//czy nie koliduje z prawej strony obiektu
+		if ((x <= (s.getWall(i).getcor().x + s.getWall(i).getwidth())) && (x >= s.getWall(i).getcor().x) && ((y + h) >= s.getWall(i).getcor().y) && (y <= (s.getWall(i).getcor().y + s.getWall(i).gethigh())))
+		{
+			return false;
+		}
+
+		//czy nie koliduje z lewej strony obiektu
+		if (((x + w) >= s.getWall(i).getcor().x) && ((x + w) <= (s.getWall(i).getcor().x + s.getWall(i).getwidth())) && ((y + h) >= s.getWall(i).getcor().y) && (y <= (s.getWall(i).getcor().y + s.getWall(i).gethigh())))
+		{
+			return false;
+		}
+
+		//czy nie koliduje z góry obiektu
+		if (((y + h) >= s.getWall(i).getcor().y) && ((y + h) <= (s.getWall(i).getcor().y + s.getWall(i).gethigh())) && ((x + w) >= s.getWall(i).getcor().x) && (x <= (s.getWall(i).getcor().x + s.getWall(i).getwidth())))
+		{
+			return false;
+		}
+
+		//czy nie koliduje z do³u obiektu
+		if ((y <= (s.getWall(i).getcor().y + s.getWall(i).gethigh())) && ((y + h) >= s.getWall(i).getcor().y) && ((x + w) >= s.getWall(i).getcor().x) && (x <= (s.getWall(i).getcor().x + s.getWall(i).getwidth())))
+		{
+			return false;
+		}
+	}
+
+	//sprawdzanie przeciwników
+	for (int i = 0; i < aoe;i++)
+	{
+		//czy nie koliduje z prawej strony obiektu
+		if ((x <= (przec.at(i).getcor().x + przec.at(i).getwidth())) && (x >= przec.at(i).getcor().x) && ((y + h) >= przec.at(i).getcor().y) && (y <= (przec.at(i).getcor().y + przec.at(i).gethigh())))
+		{
+			return false;
+		}
+
+		//czy nie koliduje z lewej strony obiektu
+		if (((x + w) >= przec.at(i).getcor().x) && ((x + w) <= (przec.at(i).getcor().x + przec.at(i).getwidth())) && ((y + h) >= przec.at(i).getcor().y) && (y <= (przec.at(i).getcor().y + przec.at(i).gethigh())))
+		{
+			return false;
+		}
+
+		//czy nie koliduje z góry obiektu
+		if (((y + h) >= przec.at(i).getcor().y) && ((y + h) <= (przec.at(i).getcor().y + przec.at(i).gethigh())) && ((x + w) >= przec.at(i).getcor().x) && (x <= (przec.at(i).getcor().x + przec.at(i).getwidth())))
+		{
+			return false;
+		}
+
+		//czy nie koliduje z do³u obiektu
+		if ((y <= (przec.at(i).getcor().y + przec.at(i).gethigh())) && ((y + h) >= przec.at(i).getcor().y) && ((x + w) >= przec.at(i).getcor().x) && (x <= (przec.at(i).getcor().x + przec.at(i).getwidth())))
+		{
+			return false;
+		}
+	}
+
+	return true;*/
